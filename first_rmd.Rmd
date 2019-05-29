@@ -1,9 +1,12 @@
 ---
-title: "First Rmd"
-author: "Marwa Mohamed"
-date: "5/28/2019"
 output: github_document
 ---
+
+## I counted 
+```{r}
+sum(c(2, 8, 7, 2))
+```
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
