@@ -1,7 +1,11 @@
-First Rmd
-================
-Marwa Mohamed
-5/28/2019
+
+## I counted
+
+``` r
+sum(c(2, 8, 7, 2))
+```
+
+    ## [1] 19
 
 ## R Markdown
 

@@ -4,7 +4,8 @@ output: github_document
 
 ## I counted 
 ```{r}
-sum(c(2, 8, 7, 2))
+sum(c(2, 8, 7, 2)) 
+mean(c(3, 4, 6, 2, 10))
 ```
 
 
